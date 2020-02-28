@@ -1,4 +1,5 @@
 Demo week03 is done
+(ganti password)
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
