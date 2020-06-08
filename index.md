@@ -4,9 +4,10 @@ untuk melihat [akun GitHub](https://github.com/rafaputri86/os201)
 
 ini kalau mau liat [URL](https://rafaputri86.github.io/os201/url)
 
-### Markdown
+### ABOUT ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Information System student at Universitas Indonesia, currently on the 4th semester
+
 
 ```markdown
 Syntax highlighted code block
