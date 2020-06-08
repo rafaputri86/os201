@@ -1,3 +1,6 @@
+---
+permalink: /URLs/
+---
 ## Rafa Putri Ayasha
 
 ini hasil URL
