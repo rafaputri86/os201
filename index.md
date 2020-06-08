@@ -3,7 +3,7 @@
 Hallo semua! Selamat datang di page ini, 
 Page ini digunakan untuk memenuhi ujian akhir semester dan repositori ini digunakan untuk menyimpan file Log Mingguan untuk matakuliah Operating Sistem.
 
-Operating Sistem merupakan mata kuliah di semester 4 yang membahas tentang seperangkat program yang mengelola sumber daya hardware komputer, dan menyediakan layanan yang umum untuk aplikasi software. untuk melihat penjelasan leih lanjut 
+Operating Sistem merupakan mata kuliah di semester 4 yang membahas tentang seperangkat program yang mengelola sumber daya hardware komputer, dan menyediakan layanan yang umum untuk aplikasi software. Untuk melihat penjelasan lebih lanjut 
 - [URLs](https://rafaputri86.github.io/os201/URLs)
 
 ### Tentang Saya  
