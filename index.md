@@ -9,10 +9,9 @@ Operating Sistem merupakan mata kuliah di semester 4 yang membahas tentang seper
 ### Tentang Saya  
 saya adalah mahasiswa Universitas Indonesia jurusan sistem informasi angkatan 2018
 
-Rafa Putri A - 1806147136
+Rafa Putri A - 1806147136 
 OS - C
-Sistem Informasi
-Fakultas Ilmu Komputer
+
 
 ```markdown
 **HOBI**
