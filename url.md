@@ -9,10 +9,9 @@ Selamat datang Dihalaman selanjutnya
 
 berikut link yang bisa diakses untuk mempelajari Sistem Operasi
 
-```markdown
 # OS URLs
 
-- [OS.VLSM.ORG](https://os.vlsm.org/)
-- [Blog Pak Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/)
+- [OS.VLSM.ORG] (https://os.vlsm.org/)
+- [Blog Pak Rahmat M. Samik-Ibrahim] (https://rahmatm.samik-ibrahim.vlsm.org/)
 
-```
+
