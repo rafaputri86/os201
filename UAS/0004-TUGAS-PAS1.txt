@@ -1,34 +1,34 @@
-Script started on Mon 08 Jun 2020 08:10:33 PM WIB
+Script started on Mon 08 Jun 2020 10:14:23 PM WIB
 rafa.putri@badak:~$ PS1="$ "
 $ echo $GitHubUser
 rafaputri86
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-201115-390d-rafa.putri/>
+200608-221453-2af9-rafa.putri/>
 $ PS1="\$(eval \$PSTAMP)"
-200608-201121-9773-rafa.putri/> echo -e $CEKSAYA
+200608-221459-3919-rafa.putri/> echo -e $CEKSAYA
 rafaputri86 ZCZCSCRIPTSTART 200603-084526 rafaputri86
  rafaputri86 rafaputri86 200603-204605-0423-rafa.putri/ 200603-204605 SEQOK SUMOK 042348bb
  rafaputri86 rafaputri86 200603-204613-a0ab-rafa.putri/ 200603-204613 SEQOK SUMOK a0ab59ab
  rafaputri86 rafaputri86 200603-204621-3bfb-rafa.putri/ 200603-204621 SEQOK SUMOK 3bfb29f8
- rafaputri86 rafaputri86 200603-204737-0423-rafa.putri/ 200603-204737 SEQOK SUMOK 211b0776
+ rafaputri86 rafaputri86 200603-204737-211b-rafa.putri/ 200603-204737 SEQOK SUMOK 211b0776
  rafaputri86 ZCZCSCRIPTSTOP 200603-084755 SEQOK
-200608-201200-5a8a-rafa.putri/> echo -e $CEKSEBELA1
+200608-221506-9034-rafa.putri/> echo -e $CEKSEBELA1
 rafaputri86 ZCZCSCRIPTSTART 200602-194434 RafifEL
  rafaputri86 RafifEL 200602-194542-fb24-muhammad.rafif82/ 200602-194542 SEQOK SUMOK fb24360c
  rafaputri86 RafifEL 200602-194552-837f-muhammad.rafif82/ 200602-194552 SEQOK SUMOK 837f13da
  rafaputri86 RafifEL 200602-194606-f71e-muhammad.rafif82/ 200602-194606 SEQOK SUMOK f71e8881
  rafaputri86 RafifEL 200602-194614-4b7f-muhammad.rafif82/ 200602-194614 SEQOK SUMOK 4b7f774e
  rafaputri86 ZCZCSCRIPTSTOP 200602-194627 SEQOK
-200608-201212-e532-rafa.putri/> echo -e $CEKSEBELA2
+200608-221518-b776-rafa.putri/> echo -e $CEKSEBELA2
 rafaputri86 ZCZCSCRIPTSTART 200602-113035 ramyazhar
  rafaputri86 ramyazhar 200602-233035-43a3-muhammad.ramy/ 200602-233035 SEQOK SUMOK 43a3cd6a
  rafaputri86 ramyazhar 200602-233036-0b4c-muhammad.ramy/ 200602-233036 SEQOK SUMOK 0b4c4715
  rafaputri86 ramyazhar 200602-233042-ce28-muhammad.ramy/ 200602-233042 SEQOK SUMOK ce28e977
  rafaputri86 ramyazhar 200602-233058-18b2-muhammad.ramy/ 200602-233058 SEQOK SUMOK 18b261f3
  rafaputri86 ZCZCSCRIPTSTOP 200602-113103 SEQOK
-200608-201225-cec8-rafa.putri/> exit
+200608-221527-7926-rafa.putri/> exit
 exit
 
-Script done on Mon 08 Jun 2020 08:12:38 PM WIB
+Script done on Mon 08 Jun 2020 10:15:30 PM WIB
