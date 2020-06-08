@@ -10,22 +10,15 @@ Information System student at Universitas Indonesia, currently on the 4th semest
 
 
 ```markdown
-Syntax highlighted code block
+**HOBI**
+Hobi saya adalah memasak dan travelling 
 
-# Header 1
-## Header 2
-### Header 3
+**Experience**
+- Vice Person In Sponshorship Educare (Desember 2020 – present)
+- Fundraiser at Pesat Rakyat Komputer Duta Edupreneur 1.0 by Pintek (July 2019- Present)
+- Fundraiser at Wisuda Genap (June -Agustus 2019 
+- Media partner staff COMPFEST 11 (January –September 2019)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
