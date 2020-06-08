@@ -13,10 +13,10 @@ saya adalah mahasiswa Universitas Indonesia jurusan sistem informasi angkatan 20
 
 
 ```markdown
-## HOBI
+**HOBI**
 Hobi saya adalah memasak dan travelling 
 
-## Pengalaman
+**Pengalaman**
 - Vice Person In Sponshorship Educare (Desember 2020 – present)
 - Fundraiser at Pesat Rakyat Komputer 
 - Duta Edupreneur 1.0 by Pintek (July 2019- Present)
