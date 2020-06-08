@@ -8,7 +8,6 @@ ini kalau mau liat [URL](https://rafaputri86.github.io/os201/url)
 
 Information System student at Universitas Indonesia, currently on the 4th semester
 
-
 ```markdown
 **HOBI**
 Hobi saya adalah memasak dan travelling 
@@ -19,6 +18,7 @@ Hobi saya adalah memasak dan travelling
 - Fundraiser at Wisuda Genap (June -Agustus 2019 
 - Media partner staff COMPFEST 11 (January –September 2019)
 
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
