@@ -2,7 +2,7 @@
 
 untuk melihat [akun GitHub](https://github.com/rafaputri86/os201) 
 
-ini kalau mau liat [URL](https://rafaputri86.github.io/os201/url)
+ini kalau mau liat [URL](https://rafaputri86.github.io/os201/URLs)
 
 ### ABOUT ME
 
