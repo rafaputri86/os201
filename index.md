@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/rafaputri86/os201/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-ini kalau mau liat [URL](https://github.com/rafaputri86/os201/url)
+ini kalau mau liat [URL](https://rafaputri86.github.io/os201/url)
 
 ### Markdown
 
