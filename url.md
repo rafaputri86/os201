@@ -5,6 +5,10 @@ permalink: /URLs/
 
 Selamat datang Dihalaman selanjutnya 
 
+### Apa itu Sistem Operasi?
+sistem operasi atau yang disingkat OS adalah perangkat lunak sistem yang mengatur sumber daya dari perangkat keras dan perangkat lunak, serta sebagai daemon untuk program komputer. Tanpa sistem operasi, pengguna tidak dapat menjalankan program aplikasi pada komputer mereka, kecuali program booting. Selama satu semester ini kita telah mempelajari tentang Virtualization & Scripting, Security, Protection, Privacy, 
+& C-language, File System & FUSE, Addressing, Shared Lib, & Pointer, Virtual Memory, Processes & Threads, Synchronization & Deadlock Scheduling, Storage, Firmware, Bootldr, & Systemd, I/O & Programming 
+
 ### informasi mengenai Sistem Operasi
 berikut link yang bisa diakses untuk mempelajari Sistem Operasi:
 
