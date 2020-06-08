@@ -1,8 +1,6 @@
 ## Rafa Putri Ayasha
 
-You can use the [editor on GitHub](https://github.com/rafaputri86/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+untuk melihat [akun GitHub](https://github.com/rafaputri86/os201) 
 
 ini kalau mau liat [URL](https://rafaputri86.github.io/os201/url)
 
