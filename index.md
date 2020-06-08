@@ -20,6 +20,6 @@ Hobi saya adalah memasak dan travelling
 ```
 
 ### Kontak
-- :e-mail: RafaPutri86@gmail.com
-- LinkedIn: [Rafa Ayasha] (www.linkedin.com/in/rafa-ayasha)
+- e-mail: RafaPutri86@gmail.com
+- [LinkedIn: Rafa Ayasha](www.linkedin.com/in/rafa-ayasha)
 
