@@ -14,8 +14,8 @@ berikut link yang bisa diakses untuk memperoleh informasi mengenai Sistem Operas
 - [OS.VLSM.ORG](https://os.vlsm.org/)
 - [Blog Pak Rahmat M. Samik-Ibrahim](https://rahmatm.samik-ibrahim.vlsm.org/)
 
-## Materi OS201 UAS - Youtube Playlist
-Untuk lebih jelasnya berikut merupakan penjelasan dari materi Sistem Operasi:
+## Materi OS201 UAS - VIDEO 
+Untuk lebih jelasnya berikut video penjelasan dari materi Sistem Operasi:
 - [Week 06](https://www.youtube.com/playlist?list=PLwaskZn3rUGvTfUHu3lhkYY4tOSy6amhz)
 - [Week 07](https://www.youtube.com/playlist?list=PLwaskZn3rUGs-qFoOrMM3cfvH57giC0MJ)
 - [Week 08](https://www.youtube.com/playlist?list=PLwaskZn3rUGtcRKqAPWveOj97EC7lkawh)
