@@ -4,6 +4,7 @@ a.	Persiapan UAS
 	Kesulitan dalam memahami beberapa perintah yang diberikan
 	Mahasiswa lupa cara membuat key dan enkripsi
 	Tidak tahu cara melakukan beberapa perintah
+	
 	Kelebihan :
 	Cukup mudah dilakukan
 	Terdapat langkah-langkah yang mudah dipahami
@@ -11,6 +12,7 @@ a.	Persiapan UAS
 	Mudah diakses karena penjelasan berada di scele
 	Waktu yang diberikan cukup lama
 	Terdapat log untuk memantau kesalahan
+	
 	Kekurangan :
 	Kurangnya penjelasan mengenai tujuan persiapan dan gambaran pelaksanaan UAS
 	Langkah pengerjaan ditulis bergabung dengan penjelasan persiapan sehingga terlihat terlalu padat
@@ -20,23 +22,26 @@ b.	Tahap 1
 	Kendala :
 	Kemampuan penggunaan terminal pada linux yang kurang menghambat proses pengerjaan
 	Kemampuan untuk pembuatan script yang menurut saya sudah cukup advanced yang sangat dibutuhkan disini cukup menghambat proses pengerjaan
+	
 	Kelebihan :
 	Adanya dokumentasi yang diberikan 
 	Adanya contoh mengenai github pages yang telah memenuhi syarat. Yaitu, pada github cbkadal.
 	Menjadi tahu bagaimana caranya scripting tingkat lanjut, namun bagusnya lagi hal ini tidak menjadi urgensi mahasiswa karena mahasiswa tetap dapat menyelesaikan tahap ini dengan melakukan pengecekan secara manual.
 	Menjadi tahu bagaimana membuat endpoint baru untuk url pada github pages.
+	
 	Kekurangan :
 	Kurang penjelasan terkait dengan soal yang dimaksud, beberapa seperti contoh SEQNO dan SUMNO yang tidak terdapat pada soal. Hal ini baru dapat diketahui setelah terdapat mahasiswa yang menanyakan melalui forum di scele.
 
 c.	Tahap 2
-
 	Kendala :
 	Perubahan yang cukup besar antara tahap 1 dengan tahap 2 yang ternyata tahap 2 jauh lebih rumit dibandingkan tahap 1, membuat mahasiswa kebingungan.
 	Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo
+	
 	Kelebihan :
 	Menjadi lebih tahu bagaimana semafor bekerja untuk menghindari terjadinya race condition dalam mengakses memori yang sama bersamaan
 	Menjadi lebih tahu bagaimana penggunaan semafor biasa dengan semafor untuk mutex
 	Menjadi lebih tahu bagaimana cara memetakan sebuah file ke memory di bahasa C dengan menggunakan mmap
+	
 	Kekurangan :
 	Memahami soal lebih susah dibandingkan memahami langsung dengan melihat programnya, penjelasan yang dijelaskan di soal seharusnya dapat lebih jelas tanpa melihat ke program.
 	Beberapa seperti TIME[16], nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah terdapat salah satu peserta ujian yang menanyakan melalui forum di scele 
@@ -44,20 +49,50 @@ c.	Tahap 2
 d.	Tahap 3
 	Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2. 
 	Kendala :
+	Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokan berdasarkan status 
+	Sulit untuk koordinasi revisi saat diminta ke seluruh anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya.
+	Kurang memahami materi dan sulit mengimplementasikan hal yg sudah dipelajari
+	Requirement penilaian tak dijabarkan
+	sudah mulai kehilangan motivasi untuk mengerjakan, karena sudah ingin liburan.
+	kelompok yang kurang bisa diajak kerja sama karena semuanya tidak ada yang memahami materi sehingga perlu lebih extra bertanya-tanya kelompok lain untuk memahami soal
+	Banyak instruksi dan file yang bersifat ambigu sehingga menyulitkan peserta ujian
+
 	Kelebihan
 	Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3.
 	Kekurangan:
+	Perintah/revisi soal yang keluar saat berjalannya ujian dapat membingungkan
+	Sama seperti tahap II terkadang ada bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya.
+	Hanya satu file yang diedit sehingga sulit dalam pembagian tugas dengan anggota lain
+	Batas kurang jelas antara keterangan soal yang kurang jelas dengan "kreativitas masing masing" sehingga menimbulkan perdebatan
 
 e.	Tahap 4
+	Kendala : 
+	Ada beberapa mahasiswa yang belum cukup mengerti materi yang ditanyakan pada tahap ini
+	Adanya masalah koordinasi revisi sehingga ada perbedaan versi kode
+	File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan membuat beberapa mahasiswa harus terus-menerus cross check dengan repository cbkadal
+	
+	Kelebihan : 
+	Menjadi mengerti cara menggunakan synchronous semaphore
+	Tersedianya penjelasan yang mendetail dari Pak RMS mengenai tugas ini
+	Tugas relatif seru karena tantangan yang diterima
+
+	Kekurangan : 
+	Hanya ada satu file yang perlu diedit sehingga pembagian tugas sulit
+	Requirement soal agak kurang dijabarkan. Di soal, dikatakan bisa menggunakan implementasi sendiri, tetapi jika implementasinya beda, nilai akan dikurangi.
+	Waktu yang diberikan tidak sebanyak tugas-tugas sebelumnya.
+	Lompatan materi yang lumayan besar dari tahap sebelumnya.
+
 
 f.	Tahap 5
 	Kendala :
 	Kurang pemahaman tentang FUSE
 	Kurang mengerti perintah soal dan sulit memahami berkas-berkas yang diberikan
+	
 	Kelebihan :
 	Mahasiswa menjadi lebih tahu salah satu implementasi FUSE
 	Termasuk mudah apabila sudah mengerti materi FUSE
 	Sudah ada dokumentasi terkait soal
+	
 	Kekurangan :
 	Kurang penjelasan teknis
 	Dokumentasi terkait soal sulit dimengerti
@@ -113,6 +148,23 @@ SHA1SUM adalah program/perintah yang menghitung dan memverifikasi hash yang meng
 h.	SHA1SUM.asc
 Format .asc sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
 
+3. Bahas dari sudut pandang peserta OS201, berkas berikut ini:
+https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
 
+Tantangan
+Modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat ujian menjadi lebih sulit. Kesalahan prosedur yang dilakukan peserta menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedur tersebut dibandingkan mengerjakan soal yang diberikan. 
+
+Perangkat pendukung
+Rata-rata peserta hanya mengetahui fungsi serta cara memakai Git dan Github. Untuk perangkat pendukung scripting, GNUPG, dan sha1sum peserta tidak familiar sehingga harus mempelajari terlebih dahulu. Mayoritas peserta hanya mengikuti langkah-langkah yang diberikan, namun tidak mengerti maksud dari langkah-langkah tersebut. 
+
+Problem
+	MS Windows
+	Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
+
+	Github
+	Pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push. 
+
+	Github page
+	Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke load atau salah pada code yang ditulis. 
 
 
