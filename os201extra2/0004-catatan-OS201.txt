@@ -159,12 +159,12 @@ Tantangan
 
 -Problem
 	MS Windows
-	Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
+	-Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
 
 	Github
-	Pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push. 
+	-Pada saat melakukan push kadang bebarengan dengan orang lain sehingga harus berulang ulang melakukan push. 
 
 	Github page
-	Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke load atau salah pada code yang ditulis. 
+	-Terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page nampak, jadi kadang peserta kebingungan apakah memang Github page nya belom ke load atau salah pada code yang ditulis. 
 
 
