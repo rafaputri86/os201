@@ -63,3 +63,10 @@ Pelaksanaan UAS Adprog, tipe soal adalah pilihan ganda, essay, dan melengkapi pr
 Pelaksanaan UAS SC, tipe soal adalah essay. Diberikan waktu 2 jam 45 menit untuk mengerjakan serta 15 menit untuk mengupload jawaban. Bersifat closed book dengan sebelumnya membuat perjanjian untuk berlaku jujur selama ujian. Selama ujian, semua berkas perkuliahan yang ada di SCELE di hide.
 Pelaksanaan UAS Anum, tipe soal adalah essay dan membuat program. Soal essay dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Akan tetapi, tiap topik memiliki nilai maksimum sehingga tidak usah dikerjakan semuanya. Selain itu, terdapat banyak soal-soal yang belum pernah diajarkan sebelumnya sehingga mahasiswa dituntut untuk mencari solusi di Google. Waktu pengerjaan adalah 3 jam.
 Secara umum, UAS mata kuliah lainnya hanya dilakukan dalam satu waktu pengerjaan. Sedangkan, OS dilaksanakan beberapa tahap dalam waktu yang berbeda beda.
+
+Hasil Zoom (06-08-2020)
+Saran Pelaksanaan OS201
+=====================
+-Penggunaan Zoom untuk tanya jawab demo dan materi seperti salah satu mata kuliah Statistika dan Probabilitas yang mengadakan zoom meeting setiap waktu perkuliahan. Dan hasil pertemuan Zoomnya juga di upload di scele atau di youtube karena ada beberapa mahasiswa pada waktu tersebut tidak dapat ikut dalam Zoom karena masalah koneksi, sehingga jika hasil pertemuan tersebut di upload maka yg tidak ikut tetap bisa mengikuti.
+-Dengan forum wajib seperti Mata kuliah basis data, dimana dalam forum tersebut juga dinilai dan dari forum tersebut kita juga bisa mengkoreksi atau mengetahui jawaban yg bener baik dari teman atau pun dari dosen
+-diberikan case setiap minggunya baik individu ataupun perkelompok mengenai materi yg diajarkan pada pertemuan sebelumnya yang dikumpulkan pada waktu jam mata kuliah tersebut selesai, seperti mata kuliah sistem-sistem perusahaan yang ada dijurusan sistem informasi
